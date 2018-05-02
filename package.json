@@ -1,5 +1,5 @@
 {
-  "name": "gulp-remote-src",
+  "name": "gulp-remote-src-vscode",
   "description": "Remote gulp.src",
   "version": "0.4.3",
   "main": "index.js",
