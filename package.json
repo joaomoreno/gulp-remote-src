@@ -6,11 +6,11 @@
   "scripts": {
     "test": "gulp test"
   },
-  "homepage": "https://github.com/ddliu/gulp-remote-src",
+  "homepage": "https://github.com/joaomoreno/gulp-remote-src",
   "author": "dong <ddliuhb@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ddliu/gulp-remote-src.git"
+    "url": "https://github.com/joaomoreno/gulp-remote-src"
   },
   "bugs": {
     "url": "https://github.com/ddliu/gulp-remote-src/issues"
