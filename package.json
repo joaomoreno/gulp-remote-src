@@ -28,11 +28,11 @@
     "gulp-clean": "^0.3.1"
   },
   "dependencies": {
-    "event-stream": "^3.3.4",
-    "vinyl": "^2.0.1",
+    "event-stream": "3.3.4",
+    "node.extend": "^1.1.2",
     "request": "^2.79.0",
     "through2": "^2.0.3",
-    "node.extend": "^1.1.2"
+    "vinyl": "^2.0.1"
   },
   "keywords": [
     "gulpplugin",
