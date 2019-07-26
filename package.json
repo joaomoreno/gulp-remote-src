@@ -1,5 +1,5 @@
 {
-  "name": "gulp-remote-src",
+  "name": "gulp-remote-retry-src",
   "description": "Remote gulp.src",
   "version": "0.6.0",
   "main": "index.js",
