@@ -3,9 +3,6 @@
   "description": "Remote gulp.src",
   "version": "0.6.0",
   "main": "index.js",
-  "scripts": {
-    "test": "gulp test"
-  },
   "homepage": "https://github.com/ddliu/gulp-remote-src",
   "author": "dong <ddliuhb@gmail.com>",
   "repository": {
@@ -22,11 +19,7 @@
     }
   ],
   "license": "MIT",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-uglify": "~2.0.1",
-    "gulp-clean": "~0.3.1"
-  },
+  "devDependencies": {},
   "dependencies": {
     "event-stream": "3.3.4",
     "node.extend": "~1.1.2",
